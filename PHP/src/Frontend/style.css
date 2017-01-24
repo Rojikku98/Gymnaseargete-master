@@ -1,0 +1,214 @@
+.list{
+
+    width: 39%;
+}
+.gameBord{
+    width: 59%;
+    margin-left: 5%;
+}
+
+
+.inline{
+    display: inline-block;
+
+}
+.b{
+    border-color: black;
+    border-width: 5px;
+}
+
+
+.info{
+    width: 5em;
+    height: 1.2em;
+    overflow: hidden;
+    background-color:red ;
+}
+.info:hover{
+    width: 40em;
+    height: 15em;
+}
+td
+{
+    text-align:center;
+    vertical-align:middle;
+    width: 12em;
+    overflow: hidden;
+}
+.index{
+    background-color: #7c7979;
+}
+
+.inlogTabel{
+    margin-left: 40%;
+    margin-top: 10%;
+
+}
+.newUser{
+    margin-left: 30%;
+}
+
+
+.newgame{
+    margin-top: 5%;
+    float: right;
+}
+
+.gameList{
+    float: left;
+    margin-top: 5%;
+}
+.list{
+
+    width: 39%;
+}
+.gameBord {
+    width: 59%;
+    margin-left: 5%;
+}
+
+.inline{
+    display: inline-block;
+
+}
+.b{
+    border-color: black;
+    border-width: 5px;
+}
+
+
+.info{
+    width: 5em;
+    height: 1.2em;
+    overflow: hidden;
+    background-color:red ;
+}
+.info:hover{
+    width: 40em;
+    height: 15em;
+
+}
+.selected{
+    background-color: green;
+    color: black;
+}
+
+
+
+.pMove{
+    background-color: lightgreen;
+    color: black;
+}
+.list{
+
+    width: 39%;
+}
+.gameBord{
+    width: 59%;
+    margin-left: 5%;
+}
+.gameBordp{
+    background: #c2b280;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+    margin-top: 5%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.inline{
+    display: inline-block;
+
+}
+.b{
+    border-color: black;
+    border-width: 5px;
+}
+body{
+    background-color: #7c7979;
+}
+
+.info{
+    width: 5em;
+    height: 1.2em;
+    overflow: hidden;
+    background-color:red ;
+}
+.info:hover{
+    width: 40em;
+    height: 15em;
+
+}
+
+Header{
+    text-align: center;
+    font-size: 30px;
+    color: #723939;
+}
+.vatten{
+    background-color: #59b7f9;
+    color: #59b7f9;
+    border-color: #59b7f9;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.selectCharacters{
+    text-align: center;
+}
+.newGame{
+    border: black solid;
+    border-width: 5px;
+    margin-bottom: 5%;
+    text-align: center;
+    width: 100%;
+}
+.newGameT{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.t{
+
+}
+.r{
+    text-align: left;
+}
+.l{
+    text-align: right;
+}
+.enemy{
+    background-color: #db4832;
+    border-color: #db4832;
+}
+.ally{
+    border-color: #17c4aa;
+    background-color: #17c4aa;
+}
+.tile{
+    font-size: 14px;
+    min-width: 6em;
+    min-height: 3em;
+    width: 14em;
+    height: 3em;
+    border: 4px solid black;
+    padding: 0;
+
+
+
+}
+.tile button{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+
+}
