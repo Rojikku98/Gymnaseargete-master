@@ -191,7 +191,8 @@ Header{
     max-width: 300px;
     min-width: 260px;
     text-align: center;
-    margin-left: 45%;
+    display: block;
+    margin: auto;
     margin-top: 15px;
 }
 .t{
