@@ -15,7 +15,7 @@ if (isset($_POST['username'])&&isset($_POST['password'])&&isset($_POST['name'])&
 
     //echo $_POST['epost'];
 
-    if (User::newUser($_POST['username'],$_POST['name'],$_POST['password'],($_POST['epost']))){
+    if (User::newUser(htmlentities($_POST['username']),htmlentities($_POST['name']),htmlentities($_POST['password']),htmlentities($_POST['epost']))){
 
         header("location:index.php");
 

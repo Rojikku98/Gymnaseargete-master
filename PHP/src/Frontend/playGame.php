@@ -73,7 +73,7 @@ if (isset($_SESSION['id'])) {
     
 </head>
 <body class='index'>
-<header>Stratego<br><a href='main.php'>Back</a></header>
+<header>Stratego<br><nav><a href='main.php'>Back</a></nav></header>
 
 ";
         echo "

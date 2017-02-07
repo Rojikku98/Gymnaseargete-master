@@ -89,7 +89,7 @@ if (isset($_SESSION['id'])) {
     
 </head>
 <body class='index'>
-<header>Stratego <br><a href='playGame.php?gid=".$_GET['gid']."'>Deselect</a></header>
+<header>Stratego <br><nav><a href='playGame.php?gid=".$_GET['gid']."'>Deselect</a></nav></header>
 
 
 ";echo "

@@ -37,20 +37,20 @@ if (isset($_SESSION['id'])){
     $text="";
     foreach ($gameid as $gid) {
        if (Game::done($gid)==$id) {
-           $text = $text . "<tr><td>" . $gid . "</td><td>Du vann det här spelet</td><td><a href='delete.php?gid=" . $gid . "'>Delete</a></td><td>";
+           $text = $text . "<tr class='gameListTr'><td>" . $gid . "</td><td>Du vann det här spelet</td><td><a href='delete.php?gid=" . $gid . "'>Delete</a></td><td>";
        }elseif (Game::done($gid) == Game::nextperson($gameid,$id)) {
-           $text = $text . "<tr><td>" . $gid . "</td><td>Du förlorade det här spelet det ära spelet</td><td><a href='Delete.php?gid=" . $gid . "'>Delete</a></td></tr>";
+           $text = $text . "<tr class='gameListTr'><td>" . $gid . "</td><td>Du förlorade det här spelet det ära spelet</td><td><a href='Delete.php?gid=" . $gid . "'>Delete</a></td></tr>";
        }
         if ($_SESSION['id'] == Game::vem($gid)) {
-            $text = $text . "<tr><td>" . $gid . "</td><td><a href='playGame.php?gid=" . $gid . "'>play</a></td><td><a href='Delete.php?gid=".$gid."'>Delete</a></td></tr>";
+            $text = $text . "<tr class='gameListTr'><td>" . $gid . "</td><td><a href='playGame.php?gid=" . $gid . "'>play</a></td><td><a href='Delete.php?gid=".$gid."'>Delete</a></td></tr>";
         }
         else {
-            $text = $text . "<tr><td>" . $gid . "</td><td> Det är ej din tur, <a href='showGameBord.php?gid=" . $gid . "'>Se spelplanen</a> </td><td><a href='deleteGame.php'>Delete</a></td></tr>";
+            $text = $text . "<tr class='gameListTr'><td>" . $gid . "</td><td> Det är ej din tur <a href='showGameBord.php?gid=" . $gid . "'><br>Se spelplanen</a> </td><td><a href='deleteGame.php'>Delete</a></td></tr>";
         }
     }
     if (isset($_POST["Sname"])){
 
-        if (Game::newGame(5,$id, $_POST["Sname"])) {
+        if (Game::newGame(5,$id, htmlentities($_POST["Sname"]))) {
             header("location:main.php");
         }else{
             echo "Kunde inte skapa ett nytt spel kontrilera andvändar namet";
@@ -68,8 +68,8 @@ if (isset($_SESSION['id'])){
         <meta charset='utf-8'>
     </head>
     <body class='index'>
-        <header >Stratego <br>
-        <a href='logout.php'>Logout</a> </header>
+        <header >Stratego <br><nav>
+        <a href='logout.php'>Logout</a></nav> </header>
         
     <div name='d' class ='newGame'>
         <form action='main.php' method='post'>

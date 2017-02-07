@@ -70,7 +70,7 @@ if (isset($_SESSION['id'])) {
 </head>
 <body class='index'>
 <header>Stratego
-    <br><a<br><a href='main.php'>Back</a>
+    <br><a<br><nav><a href='main.php'>Back</a></nav>
 </header>
 
 ";
