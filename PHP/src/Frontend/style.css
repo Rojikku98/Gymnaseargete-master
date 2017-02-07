@@ -207,10 +207,12 @@ Header{
 .enemy{
     background-color: #db4832;
     border-color: #db4832;
+    color: black;
 }
 .ally{
     border-color: #17c4aa;
     background-color: #17c4aa;
+    color: black;
 }
 .tile{
     font-size: 14px;
@@ -230,6 +232,4 @@ Header{
     width: 100%;
     padding: 0;
     margin: 0;
-
-
 }

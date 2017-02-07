@@ -97,28 +97,28 @@ if (isset($_SESSION['id'])) {
                     $ower = $a['2'];
                     if ($ower == $id || (in_array($x."".$y,$_SESSION['usedxy']))) {
                         if (isset($_SESSION['cType'][$x."".$y])){
-                            $text = $text . "<td class='tile'><button class='used' type=\"button\" disabled value='" . $x . " " . $y . "' name='" . $antal . "' onclick='f(this.name)'>" . Game::getName($_SESSION['cType'][$x."".$y]) . "</button></td>";
+                            $text = $text . "<td class='tile'><button class='ally' type=\"button\" disabled value='" . $x . " " . $y . "' name='" . $antal . "' onclick='f(this.name)'>" . Game::getName($_SESSION['cType'][$x."".$y]) . "</button></td>";
                         }
                         else {
-                            $text = $text . "<td class='tile'><button class='used' type='submit' type=\"button\" disabled value='" . $x . " " . $y . "' name='" . $antal . "' onclick='f(this.name)'>" . Game::getName($cType) . "</button></td>";
+                            $text = $text . "<td class='tile'><button class='ally' type='submit' type=\"button\" disabled value='" . $x . " " . $y . "' name='" . $antal . "' onclick='f(this.name)'>" . Game::getName($cType) . "</button></td>";
                         }
                         //om det är player ett eller två
                     } else if (Game::getStateNr($_GET['gid']) == 1) {
                         //player 1 har toppen
                         if ($y < 4) {
-                            $text = $text . "<td class='tile'><button class='canSelect' type='submit' value='" . $x . " " . $y . "' name='" . $antal . "''>Tom</button></td>";
+                            $text = $text . "<td class='tile'><button class='' type='submit' value='" . $x . " " . $y . "' name='" . $antal . "''>Tom</button></td>";
                         }
                         else {
-                            $text = $text . "<td class='tile'><button class='cantSelect' type=\"button\" disabled value='" . $x . " " . $y . "' name='" . $antal . "'>cant select</button></td>";
+                            $text = $text . "<td class='tile'><button class='enemy' type=\"button\" disabled value='" . $x . " " . $y . "' name='" . $antal . "'>cant select</button></td>";
                         }
 
                     }
                     else {
                         if ($y > 5) {
-                            $text = $text . "<td class='tile'><button class='canSelect' type='submit' value='" . $x . " " . $y . "' name='" . $antal . "'>Tom</button></td>";
+                            $text = $text . "<td class='tile'><button class=''   type='submit' value='" . $x . " " . $y . "' name='" . $antal . "'>Tom</button></td>";
                         }
                         else {
-                            $text = $text . "<td class='tile'><button class='cantSelect' type=\"button\" disabled value='" . $x . " " . $y . "' name='" . $antal . "'>cant select</button></td>";
+                            $text = $text . "<td class='tile'><button class='enemy' type=\"button\" disabled value='" . $x . " " . $y . "' name='" . $antal . "'>cant select</button></td>";
                         }
                     }
                 }

@@ -26,11 +26,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Frontend/main.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="274">
-                  <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+                <state relative-caret-position="614">
+                  <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
                   <folding>
                     <marker date="1486473214013" expanded="true" signature="2169:2996" ph="..." />
                     <marker date="1486473214013" expanded="true" signature="2180:2321" ph="..." />
@@ -195,15 +195,15 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="FirstTurn.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="FirstTurn.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Frontend/FirstTurn.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="595">
-                  <caret line="160" column="47" selection-start-line="160" selection-start-column="47" selection-end-line="160" selection-end-column="47" />
+                <state relative-caret-position="816">
+                  <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
                   <folding>
-                    <marker date="1486463745543" expanded="true" signature="5162:5422" ph="..." />
-                    <marker date="1486463745543" expanded="true" signature="5173:5315" ph="..." />
-                    <marker date="1486463745543" expanded="true" signature="5336:5422" ph="..." />
+                    <marker date="1486473559250" expanded="true" signature="5136:5396" ph="..." />
+                    <marker date="1486473559250" expanded="true" signature="5147:5289" ph="..." />
+                    <marker date="1486473559250" expanded="true" signature="5310:5396" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -213,11 +213,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Frontend/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
+                <state relative-caret-position="181">
+                  <caret line="176" column="23" selection-start-line="176" selection-start-column="23" selection-end-line="176" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Database.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Utils/Database.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="476">
+                  <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
                   <folding />
                 </state>
               </provider>
@@ -258,9 +268,9 @@
         <option value="$PROJECT_DIR$/src/Frontend/playGame.php" />
         <option value="$PROJECT_DIR$/src/Frontend/showGameBord.php" />
         <option value="$PROJECT_DIR$/src/Frontend/Move.php" />
+        <option value="$PROJECT_DIR$/src/Frontend/main.php" />
         <option value="$PROJECT_DIR$/src/Frontend/FirstTurn.php" />
         <option value="$PROJECT_DIR$/src/Frontend/style.css" />
-        <option value="$PROJECT_DIR$/src/Frontend/main.php" />
       </list>
     </option>
   </component>
@@ -516,12 +526,12 @@
       <workItem from="1484658029062" duration="2397000" />
       <workItem from="1484737084605" duration="2406000" />
       <workItem from="1484834066954" duration="4532000" />
-      <workItem from="1486463220844" duration="4627000" />
+      <workItem from="1486463220844" duration="5283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155705000" />
+    <option name="totallyTimeSpent" value="156361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
@@ -836,13 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/Database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Utils/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -997,18 +1000,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frontend/FirstTurn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="160" column="47" selection-start-line="160" selection-start-column="47" selection-end-line="160" selection-end-column="47" />
-          <folding>
-            <marker date="1486463745543" expanded="true" signature="5162:5422" ph="..." />
-            <marker date="1486463745543" expanded="true" signature="5173:5315" ph="..." />
-            <marker date="1486463745543" expanded="true" signature="5336:5422" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Frontend/sendToGame.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1019,8 +1010,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Frontend/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+        <state relative-caret-position="614">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
           <folding>
             <marker date="1486473214013" expanded="true" signature="2169:2996" ph="..." />
             <marker date="1486473214013" expanded="true" signature="2180:2321" ph="..." />
@@ -1035,10 +1026,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Frontend/FirstTurn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <marker date="1486473559250" expanded="true" signature="5136:5396" ph="..." />
+            <marker date="1486473559250" expanded="true" signature="5147:5289" ph="..." />
+            <marker date="1486473559250" expanded="true" signature="5310:5396" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Frontend/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
+        <state relative-caret-position="181">
+          <caret line="176" column="23" selection-start-line="176" selection-start-column="23" selection-end-line="176" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
           <folding />
         </state>
       </provider>
