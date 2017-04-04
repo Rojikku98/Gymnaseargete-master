@@ -23,219 +23,191 @@
     <favorites_list name="Gymnaseargete" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Frontend/main.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="614">
-                  <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
-                  <folding>
-                    <marker date="1486473214013" expanded="true" signature="2169:2996" ph="..." />
-                    <marker date="1486473214013" expanded="true" signature="2180:2321" ph="..." />
-                    <marker date="1486473214013" expanded="true" signature="2346:2979" ph="..." />
-                    <marker date="1486473214013" expanded="true" signature="2363:2438" ph="..." />
-                    <marker date="1486473214013" expanded="true" signature="2382:2428" ph="..." />
-                    <marker date="1486473214013" expanded="true" signature="2483:2881" ph="..." />
-                    <marker date="1486473214013" expanded="true" signature="2530:2870" ph="..." />
-                    <marker date="1486473214013" expanded="true" signature="2567:2854" ph="..." />
-                    <marker date="1486473214013" expanded="true" signature="2923:2967" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="newUser.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Frontend/newUser.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-                  <folding>
-                    <marker date="1486463441555" expanded="true" signature="633:1932" ph="..." />
-                    <marker date="1486463441555" expanded="true" signature="644:1277" ph="..." />
-                    <marker date="1486463441555" expanded="true" signature="657:1146" ph="..." />
-                    <marker date="1486463441555" expanded="true" signature="681:1137" ph="{...}" />
-                    <marker date="1486463441555" expanded="true" signature="928:1064" ph="{...}" />
-                    <marker date="1486463441555" expanded="true" signature="1082:1127" ph="{...}" />
-                    <marker date="1486463441555" expanded="true" signature="1302:1932" ph="..." />
-                    <marker date="1486463441555" expanded="true" signature="1319:1383" ph="..." />
-                    <marker date="1486463441555" expanded="true" signature="1475:1932" ph="..." />
-                    <marker date="1486463441555" expanded="true" signature="1557:1931" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Move.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Frontend/Move.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="640">
-                  <caret line="84" column="27" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
-                  <folding>
-                    <marker date="1486463927297" expanded="true" signature="3738:4014" ph="..." />
-                    <marker date="1486463927297" expanded="true" signature="3749:3892" ph="..." />
-                    <marker date="1486463927297" expanded="true" signature="3913:4014" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sendToGame.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Frontend/sendToGame.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="playGame.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Frontend/playGame.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="783">
-                  <caret line="75" column="58" selection-start-line="75" selection-start-column="58" selection-end-line="75" selection-end-column="58" />
-                  <folding>
-                    <marker date="1486463745374" expanded="true" signature="2601:2861" ph="..." />
-                    <marker date="1486463745374" expanded="true" signature="2612:2770" ph="..." />
-                    <marker date="1486463745374" expanded="true" signature="2791:2861" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Frontend/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="325">
-                  <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Game.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Logic/Game.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1218">
-                  <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
-                  <folding>
-                    <marker date="1486463082765" expanded="true" signature="681:787" ph="SELECT type tiles" />
-                    <marker date="1486463082765" expanded="true" signature="716:786" ph="SELECT MAX(i... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="1207:1362" ph="SELECT viseb... characters" />
-                    <marker date="1486463082765" expanded="true" signature="1250:1361" ph="SELECT chara... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="1290:1360" ph="SELECT MAX(i... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="2879:2991" ph="SELECT chara... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="2920:2990" ph="SELECT MAX(i... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="3498:3540" ph="SELECT max(i... state" />
-                    <marker date="1486463082765" expanded="true" signature="3923:3968" ph="SELECT max(s... state" />
-                    <marker date="1486463082765" expanded="true" signature="4284:4328" ph="INSERT INTO characters... " />
-                    <marker date="1486463082765" expanded="true" signature="4970:5010" ph="INSERT INTO tiles... " />
-                    <marker date="1486463082765" expanded="true" signature="6977:7018" ph="SELECT user2... game" />
-                    <marker date="1486463082765" expanded="true" signature="7366:7443" ph="SELECT uid F... state" />
-                    <marker date="1486463082765" expanded="true" signature="7400:7442" ph="SELECT max(i... state" />
-                    <marker date="1486463082765" expanded="true" signature="7904:7936" ph="INSERT INTO game... " />
-                    <marker date="1486463082765" expanded="true" signature="8194:8237" ph="INSERT INTO tiles... " />
-                    <marker date="1486463082765" expanded="true" signature="9099:9211" ph="SELECT chara... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="9140:9210" ph="SELECT MAX(i... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="9534:9574" ph="SELECT type characters" />
-                    <marker date="1486463082765" expanded="true" signature="9952:10069" ph="SELECT chara... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="9998:10068" ph="SELECT MAX(i... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="10855:10899" ph="SELECT type,... characters" />
-                    <marker date="1486463082765" expanded="true" signature="14403:14446" ph="INSERT INTO tiles... " />
-                    <marker date="1486463082765" expanded="true" signature="14702:14741" ph="INSERT INTO tiles... " />
-                    <marker date="1486463082765" expanded="true" signature="15102:15151" ph="UPDATE chara... " />
-                    <marker date="1486463082765" expanded="true" signature="15300:15349" ph="UPDATE chara... " />
-                    <marker date="1486463082765" expanded="true" signature="15650:15693" ph="INSERT INTO tiles... " />
-                    <marker date="1486463082765" expanded="true" signature="15898:15947" ph="UPDATE chara... " />
-                    <marker date="1486463082765" expanded="true" signature="16079:16128" ph="UPDATE chara... " />
-                    <marker date="1486463082765" expanded="true" signature="16436:16479" ph="INSERT INTO tiles... " />
-                    <marker date="1486463082765" expanded="true" signature="16629:16678" ph="UPDATE chara... " />
-                    <marker date="1486463082765" expanded="true" signature="16813:16862" ph="UPDATE chara... " />
-                    <marker date="1486463082765" expanded="true" signature="17226:17261" ph="INSERT INTO state... " />
-                    <marker date="1486463082765" expanded="true" signature="17598:17633" ph="INSERT INTO state... " />
-                    <marker date="1486463082765" expanded="true" signature="17973:18021" ph="SELECT id FR... game" />
-                    <marker date="1486463082765" expanded="true" signature="18469:18510" ph="SELECT timeP... game" />
-                    <marker date="1486463082765" expanded="true" signature="18769:18867" ph="SELECT timeS... " />
-                    <marker date="1486463082765" expanded="true" signature="19212:19324" ph="SELECT chara... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="19253:19323" ph="SELECT MAX(i... tiles" />
-                    <marker date="1486463082765" expanded="true" signature="19604:19650" ph="SELECT type characters" />
-                    <marker date="1486463082765" expanded="true" signature="20129:20166" ph="INSERT INTO state... " />
-                    <marker date="1486463082765" expanded="true" signature="20451:20508" ph="SELECT uid F... state" />
-                    <marker date="1486463082765" expanded="true" signature="20894:20927" ph="SELECT id FR... user" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="showGameBord.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Frontend/showGameBord.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="476">
-                  <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
-                  <folding>
-                    <marker date="1486463745449" expanded="true" signature="2361:2633" ph="..." />
-                    <marker date="1486463745449" expanded="true" signature="2372:2530" ph="..." />
-                    <marker date="1486463745449" expanded="true" signature="2551:2633" ph="..." />
-                    <marker date="1486463745449" expanded="true" signature="2560:2631" ph="..." />
-                    <marker date="1486463745449" expanded="true" signature="2681:2706" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="GymnasearbeteSql.sql" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sql/GymnasearbeteSql.sql">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="884">
-                  <caret line="52" column="35" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="35" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FirstTurn.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Frontend/FirstTurn.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="816">
-                  <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
-                  <folding>
-                    <marker date="1486473559250" expanded="true" signature="5136:5396" ph="..." />
-                    <marker date="1486473559250" expanded="true" signature="5147:5289" ph="..." />
-                    <marker date="1486473559250" expanded="true" signature="5310:5396" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Frontend/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="181">
-                  <caret line="176" column="23" selection-start-line="176" selection-start-column="23" selection-end-line="176" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Database.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Utils/Database.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="476">
-                  <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Frontend/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+              <folding>
+                <marker date="1487158056512" expanded="true" signature="2169:2996" ph="..." />
+                <marker date="1487158056512" expanded="true" signature="2180:2321" ph="..." />
+                <marker date="1487158056512" expanded="true" signature="2346:2979" ph="..." />
+                <marker date="1487158056512" expanded="true" signature="2363:2438" ph="..." />
+                <marker date="1487158056512" expanded="true" signature="2382:2428" ph="..." />
+                <marker date="1487158056512" expanded="true" signature="2483:2881" ph="..." />
+                <marker date="1487158056512" expanded="true" signature="2530:2870" ph="..." />
+                <marker date="1487158056512" expanded="true" signature="2567:2854" ph="..." />
+                <marker date="1487158056512" expanded="true" signature="2923:2967" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newUser.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Frontend/newUser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <marker date="1486463441555" expanded="true" signature="633:1932" ph="..." />
+                <marker date="1486463441555" expanded="true" signature="644:1277" ph="..." />
+                <marker date="1486463441555" expanded="true" signature="657:1146" ph="..." />
+                <marker date="1486463441555" expanded="true" signature="681:1137" ph="{...}" />
+                <marker date="1486463441555" expanded="true" signature="928:1064" ph="{...}" />
+                <marker date="1486463441555" expanded="true" signature="1082:1127" ph="{...}" />
+                <marker date="1486463441555" expanded="true" signature="1302:1932" ph="..." />
+                <marker date="1486463441555" expanded="true" signature="1319:1383" ph="..." />
+                <marker date="1486463441555" expanded="true" signature="1475:1932" ph="..." />
+                <marker date="1486463441555" expanded="true" signature="1557:1931" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Move.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Frontend/Move.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1411">
+              <caret line="84" column="27" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
+              <folding>
+                <marker date="1486463927297" expanded="true" signature="3738:4014" ph="..." />
+                <marker date="1486463927297" expanded="true" signature="3749:3892" ph="..." />
+                <marker date="1486463927297" expanded="true" signature="3913:4014" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sendToGame.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Frontend/sendToGame.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="playGame.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Frontend/playGame.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+              <folding>
+                <marker date="1486463745374" expanded="true" signature="2601:2861" ph="..." />
+                <marker date="1486463745374" expanded="true" signature="2612:2770" ph="..." />
+                <marker date="1486463745374" expanded="true" signature="2791:2861" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Frontend/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Logic/Game.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2975">
+              <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+              <folding>
+                <marker date="1486463082765" expanded="true" signature="681:787" ph="SELECT type tiles" />
+                <marker date="1486463082765" expanded="true" signature="716:786" ph="SELECT MAX(i... tiles" />
+                <marker date="1486463082765" expanded="true" signature="1207:1362" ph="SELECT viseb... characters" />
+                <marker date="1486463082765" expanded="true" signature="1250:1361" ph="SELECT chara... tiles" />
+                <marker date="1486463082765" expanded="true" signature="1290:1360" ph="SELECT MAX(i... tiles" />
+                <marker date="1486463082765" expanded="true" signature="2879:2991" ph="SELECT chara... tiles" />
+                <marker date="1486463082765" expanded="true" signature="2920:2990" ph="SELECT MAX(i... tiles" />
+                <marker date="1486463082765" expanded="true" signature="3498:3540" ph="SELECT max(i... state" />
+                <marker date="1486463082765" expanded="true" signature="3923:3968" ph="SELECT max(s... state" />
+                <marker date="1486463082765" expanded="true" signature="4284:4328" ph="INSERT INTO characters... " />
+                <marker date="1486463082765" expanded="true" signature="4970:5010" ph="INSERT INTO tiles... " />
+                <marker date="1486463082765" expanded="true" signature="6977:7018" ph="SELECT user2... game" />
+                <marker date="1486463082765" expanded="true" signature="7366:7443" ph="SELECT uid F... state" />
+                <marker date="1486463082765" expanded="true" signature="7400:7442" ph="SELECT max(i... state" />
+                <marker date="1486463082765" expanded="true" signature="7904:7936" ph="INSERT INTO game... " />
+                <marker date="1486463082765" expanded="true" signature="8194:8237" ph="INSERT INTO tiles... " />
+                <marker date="1486463082765" expanded="true" signature="9099:9211" ph="SELECT chara... tiles" />
+                <marker date="1486463082765" expanded="true" signature="9140:9210" ph="SELECT MAX(i... tiles" />
+                <marker date="1486463082765" expanded="true" signature="9534:9574" ph="SELECT type characters" />
+                <marker date="1486463082765" expanded="true" signature="9952:10069" ph="SELECT chara... tiles" />
+                <marker date="1486463082765" expanded="true" signature="9998:10068" ph="SELECT MAX(i... tiles" />
+                <marker date="1486463082765" expanded="true" signature="10855:10899" ph="SELECT type,... characters" />
+                <marker date="1486463082765" expanded="true" signature="14403:14446" ph="INSERT INTO tiles... " />
+                <marker date="1486463082765" expanded="true" signature="14702:14741" ph="INSERT INTO tiles... " />
+                <marker date="1486463082765" expanded="true" signature="15102:15151" ph="UPDATE chara... " />
+                <marker date="1486463082765" expanded="true" signature="15300:15349" ph="UPDATE chara... " />
+                <marker date="1486463082765" expanded="true" signature="15650:15693" ph="INSERT INTO tiles... " />
+                <marker date="1486463082765" expanded="true" signature="15898:15947" ph="UPDATE chara... " />
+                <marker date="1486463082765" expanded="true" signature="16079:16128" ph="UPDATE chara... " />
+                <marker date="1486463082765" expanded="true" signature="16436:16479" ph="INSERT INTO tiles... " />
+                <marker date="1486463082765" expanded="true" signature="16629:16678" ph="UPDATE chara... " />
+                <marker date="1486463082765" expanded="true" signature="16813:16862" ph="UPDATE chara... " />
+                <marker date="1486463082765" expanded="true" signature="17226:17261" ph="INSERT INTO state... " />
+                <marker date="1486463082765" expanded="true" signature="17598:17633" ph="INSERT INTO state... " />
+                <marker date="1486463082765" expanded="true" signature="17973:18021" ph="SELECT id FR... game" />
+                <marker date="1486463082765" expanded="true" signature="18469:18510" ph="SELECT timeP... game" />
+                <marker date="1486463082765" expanded="true" signature="18769:18867" ph="SELECT timeS... " />
+                <marker date="1486463082765" expanded="true" signature="19212:19324" ph="SELECT chara... tiles" />
+                <marker date="1486463082765" expanded="true" signature="19253:19323" ph="SELECT MAX(i... tiles" />
+                <marker date="1486463082765" expanded="true" signature="19604:19650" ph="SELECT type characters" />
+                <marker date="1486463082765" expanded="true" signature="20129:20166" ph="INSERT INTO state... " />
+                <marker date="1486463082765" expanded="true" signature="20451:20508" ph="SELECT uid F... state" />
+                <marker date="1486463082765" expanded="true" signature="20894:20927" ph="SELECT id FR... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showGameBord.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Frontend/showGameBord.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+              <folding>
+                <marker date="1486463745449" expanded="true" signature="2361:2633" ph="..." />
+                <marker date="1486463745449" expanded="true" signature="2372:2530" ph="..." />
+                <marker date="1486463745449" expanded="true" signature="2551:2633" ph="..." />
+                <marker date="1486463745449" expanded="true" signature="2560:2631" ph="..." />
+                <marker date="1486463745449" expanded="true" signature="2681:2706" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GymnasearbeteSql.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql/GymnasearbeteSql.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="35" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstTurn.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Frontend/FirstTurn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1343">
+              <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+              <folding>
+                <marker date="1486473559250" expanded="true" signature="5136:5396" ph="..." />
+                <marker date="1486473559250" expanded="true" signature="5147:5289" ph="..." />
+                <marker date="1486473559250" expanded="true" signature="5310:5396" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -268,9 +240,9 @@
         <option value="$PROJECT_DIR$/src/Frontend/playGame.php" />
         <option value="$PROJECT_DIR$/src/Frontend/showGameBord.php" />
         <option value="$PROJECT_DIR$/src/Frontend/Move.php" />
-        <option value="$PROJECT_DIR$/src/Frontend/main.php" />
         <option value="$PROJECT_DIR$/src/Frontend/FirstTurn.php" />
         <option value="$PROJECT_DIR$/src/Frontend/style.css" />
+        <option value="$PROJECT_DIR$/src/Frontend/main.php" />
       </list>
     </option>
   </component>
@@ -282,9 +254,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1294" />
-    <option name="height" value="1407" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -311,6 +284,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -404,14 +378,14 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Chess" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -526,18 +500,22 @@
       <workItem from="1484658029062" duration="2397000" />
       <workItem from="1484737084605" duration="2406000" />
       <workItem from="1484834066954" duration="4532000" />
-      <workItem from="1486463220844" duration="5283000" />
+      <workItem from="1486463220844" duration="5406000" />
+      <workItem from="1487158020835" duration="201000" />
+      <workItem from="1489058139617" duration="762000" />
+      <workItem from="1489397881230" duration="861000" />
+      <workItem from="1490601885728" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156361000" />
+    <option name="totallyTimeSpent" value="158330000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16353677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -891,28 +869,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frontend/newUser.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding>
-            <marker date="1486463441555" expanded="true" signature="633:1932" ph="..." />
-            <marker date="1486463441555" expanded="true" signature="644:1277" ph="..." />
-            <marker date="1486463441555" expanded="true" signature="657:1146" ph="..." />
-            <marker date="1486463441555" expanded="true" signature="681:1137" ph="{...}" />
-            <marker date="1486463441555" expanded="true" signature="928:1064" ph="{...}" />
-            <marker date="1486463441555" expanded="true" signature="1082:1127" ph="{...}" />
-            <marker date="1486463441555" expanded="true" signature="1302:1932" ph="..." />
-            <marker date="1486463441555" expanded="true" signature="1319:1383" ph="..." />
-            <marker date="1486463441555" expanded="true" signature="1475:1932" ph="..." />
-            <marker date="1486463441555" expanded="true" signature="1557:1931" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Frontend/showGameBord.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="1037">
           <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
           <folding>
             <marker date="1486463745449" expanded="true" signature="2361:2633" ph="..." />
@@ -926,7 +885,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Logic/Game.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1218">
+        <state relative-caret-position="2975">
           <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
           <folding>
             <marker date="1486463082765" expanded="true" signature="681:787" ph="SELECT type tiles" />
@@ -976,26 +935,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Frontend/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Frontend/FirstTurn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <marker date="1486473559250" expanded="true" signature="5136:5396" ph="..." />
+            <marker date="1486473559250" expanded="true" signature="5147:5289" ph="..." />
+            <marker date="1486473559250" expanded="true" signature="5310:5396" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Frontend/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+          <folding>
+            <marker date="1487158056512" expanded="true" signature="2169:2996" ph="..." />
+            <marker date="1487158056512" expanded="true" signature="2180:2321" ph="..." />
+            <marker date="1487158056512" expanded="true" signature="2346:2979" ph="..." />
+            <marker date="1487158056512" expanded="true" signature="2363:2438" ph="..." />
+            <marker date="1487158056512" expanded="true" signature="2382:2428" ph="..." />
+            <marker date="1487158056512" expanded="true" signature="2483:2881" ph="..." />
+            <marker date="1487158056512" expanded="true" signature="2530:2870" ph="..." />
+            <marker date="1487158056512" expanded="true" signature="2567:2854" ph="..." />
+            <marker date="1487158056512" expanded="true" signature="2923:2967" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Frontend/newUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <marker date="1486463441555" expanded="true" signature="633:1932" ph="..." />
+            <marker date="1486463441555" expanded="true" signature="644:1277" ph="..." />
+            <marker date="1486463441555" expanded="true" signature="657:1146" ph="..." />
+            <marker date="1486463441555" expanded="true" signature="681:1137" ph="{...}" />
+            <marker date="1486463441555" expanded="true" signature="928:1064" ph="{...}" />
+            <marker date="1486463441555" expanded="true" signature="1082:1127" ph="{...}" />
+            <marker date="1486463441555" expanded="true" signature="1302:1932" ph="..." />
+            <marker date="1486463441555" expanded="true" signature="1319:1383" ph="..." />
+            <marker date="1486463441555" expanded="true" signature="1475:1932" ph="..." />
+            <marker date="1486463441555" expanded="true" signature="1557:1931" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Frontend/Move.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
+        <state relative-caret-position="1411">
           <caret line="84" column="27" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
           <folding>
             <marker date="1486463927297" expanded="true" signature="3738:4014" ph="..." />
             <marker date="1486463927297" expanded="true" signature="3749:3892" ph="..." />
             <marker date="1486463927297" expanded="true" signature="3913:4014" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frontend/playGame.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="75" column="58" selection-start-line="75" selection-start-column="58" selection-end-line="75" selection-end-column="58" />
-          <folding>
-            <marker date="1486463745374" expanded="true" signature="2601:2861" ph="..." />
-            <marker date="1486463745374" expanded="true" signature="2612:2770" ph="..." />
-            <marker date="1486463745374" expanded="true" signature="2791:2861" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1008,49 +1020,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frontend/main.php">
+    <entry file="file://$PROJECT_DIR$/src/Frontend/playGame.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+        <state relative-caret-position="1037">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
           <folding>
-            <marker date="1486473214013" expanded="true" signature="2169:2996" ph="..." />
-            <marker date="1486473214013" expanded="true" signature="2180:2321" ph="..." />
-            <marker date="1486473214013" expanded="true" signature="2346:2979" ph="..." />
-            <marker date="1486473214013" expanded="true" signature="2363:2438" ph="..." />
-            <marker date="1486473214013" expanded="true" signature="2382:2428" ph="..." />
-            <marker date="1486473214013" expanded="true" signature="2483:2881" ph="..." />
-            <marker date="1486473214013" expanded="true" signature="2530:2870" ph="..." />
-            <marker date="1486473214013" expanded="true" signature="2567:2854" ph="..." />
-            <marker date="1486473214013" expanded="true" signature="2923:2967" ph="..." />
+            <marker date="1486463745374" expanded="true" signature="2601:2861" ph="..." />
+            <marker date="1486463745374" expanded="true" signature="2612:2770" ph="..." />
+            <marker date="1486463745374" expanded="true" signature="2791:2861" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frontend/FirstTurn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
-          <folding>
-            <marker date="1486473559250" expanded="true" signature="5136:5396" ph="..." />
-            <marker date="1486473559250" expanded="true" signature="5147:5289" ph="..." />
-            <marker date="1486473559250" expanded="true" signature="5310:5396" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Frontend/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="176" column="23" selection-start-line="176" selection-start-column="23" selection-end-line="176" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils/Database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>

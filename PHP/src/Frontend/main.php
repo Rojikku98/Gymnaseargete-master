@@ -39,7 +39,7 @@ if (isset($_SESSION['id'])){
        if (Game::done($gid)==$id) {
            $text = $text . "<tr class='gameListTr'><td>" . $gid . "</td><td>Du vann det här spelet</td><td><a href='Delete.php?gid=" . $gid . "'>Delete</a></td><td>";
        }elseif (Game::done($gid) == Game::nextperson($gameid,$id)) {
-           $text = $text . "<tr class='gameListTr'><td>" . $gid . "</td><td>Du förlorade det här spelet det ära spelet</td><td><a href='Delete.php?gid=" . $gid . "'>Delete</a></td></tr>";
+           $text = $text . "<tr class='gameListTr'><td>" . $gid . "</td><td>Du förlorade det här spelet det här spelet</td><td><a href='Delete.php?gid=" . $gid . "'>Delete</a></td></tr>";
        }
         if ($_SESSION['id'] == Game::vem($gid)) {
             $text = $text . "<tr class='gameListTr'><td>" . $gid . "</td><td><a href='playGame.php?gid=" . $gid . "'>play</a></td><td><a href='Delete.php?gid=".$gid."'>Delete</a></td></tr>";
